@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zXd5TQuHKiap37XcyzLa3wvyAjBwFNl+pLIf2JGNujbdMiiPm9kr6GjfyxLLVzcAnJjVjo/Frd3Ddz9mcR9xlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arthu\\RiderProjects\\ScryfallCrawler\\ScryfallCrawler\\ScryfallCrawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arthu\\.nuget\\packages\\htmlagilitypack\\1.11.63\\htmlagilitypack.1.11.63.nupkg.sha512"
+  ],
+  "logs": []
+}

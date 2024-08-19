@@ -1,0 +1,14 @@
+C:\Users\arthu\RiderProjects\ScryfallCrawler\ScryfallCrawler\bin\Debug\net8.0\ScryfallCrawler.exe
+C:\Users\arthu\RiderProjects\ScryfallCrawler\ScryfallCrawler\bin\Debug\net8.0\ScryfallCrawler.deps.json
+C:\Users\arthu\RiderProjects\ScryfallCrawler\ScryfallCrawler\bin\Debug\net8.0\ScryfallCrawler.runtimeconfig.json
+C:\Users\arthu\RiderProjects\ScryfallCrawler\ScryfallCrawler\bin\Debug\net8.0\ScryfallCrawler.dll
+C:\Users\arthu\RiderProjects\ScryfallCrawler\ScryfallCrawler\bin\Debug\net8.0\ScryfallCrawler.pdb
+C:\Users\arthu\RiderProjects\ScryfallCrawler\ScryfallCrawler\obj\Debug\net8.0\ScryfallCrawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\RiderProjects\ScryfallCrawler\ScryfallCrawler\obj\Debug\net8.0\ScryfallCrawler.AssemblyInfoInputs.cache
+C:\Users\arthu\RiderProjects\ScryfallCrawler\ScryfallCrawler\obj\Debug\net8.0\ScryfallCrawler.AssemblyInfo.cs
+C:\Users\arthu\RiderProjects\ScryfallCrawler\ScryfallCrawler\obj\Debug\net8.0\ScryfallCrawler.csproj.CoreCompileInputs.cache
+C:\Users\arthu\RiderProjects\ScryfallCrawler\ScryfallCrawler\obj\Debug\net8.0\ScryfallCrawler.dll
+C:\Users\arthu\RiderProjects\ScryfallCrawler\ScryfallCrawler\obj\Debug\net8.0\refint\ScryfallCrawler.dll
+C:\Users\arthu\RiderProjects\ScryfallCrawler\ScryfallCrawler\obj\Debug\net8.0\ScryfallCrawler.pdb
+C:\Users\arthu\RiderProjects\ScryfallCrawler\ScryfallCrawler\obj\Debug\net8.0\ScryfallCrawler.genruntimeconfig.cache
+C:\Users\arthu\RiderProjects\ScryfallCrawler\ScryfallCrawler\obj\Debug\net8.0\ref\ScryfallCrawler.dll
