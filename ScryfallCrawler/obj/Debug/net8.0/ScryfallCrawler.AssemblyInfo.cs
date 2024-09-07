@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScryfallCrawler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13916a953b6a807647b22be309a07a3008703e4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScryfallCrawler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScryfallCrawler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

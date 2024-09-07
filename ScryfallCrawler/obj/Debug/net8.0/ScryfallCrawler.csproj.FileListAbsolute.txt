@@ -12,3 +12,7 @@ C:\Users\arthu\RiderProjects\ScryfallCrawler\ScryfallCrawler\obj\Debug\net8.0\re
 C:\Users\arthu\RiderProjects\ScryfallCrawler\ScryfallCrawler\obj\Debug\net8.0\ScryfallCrawler.pdb
 C:\Users\arthu\RiderProjects\ScryfallCrawler\ScryfallCrawler\obj\Debug\net8.0\ScryfallCrawler.genruntimeconfig.cache
 C:\Users\arthu\RiderProjects\ScryfallCrawler\ScryfallCrawler\obj\Debug\net8.0\ref\ScryfallCrawler.dll
+C:\Users\arthu\RiderProjects\ScryfallCrawler\ScryfallCrawler\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\arthu\RiderProjects\ScryfallCrawler\ScryfallCrawler\obj\Debug\net8.0\ScryfallCrawler.csproj.AssemblyReference.cache
+C:\Users\arthu\RiderProjects\ScryfallCrawler\ScryfallCrawler\obj\Debug\net8.0\ScryfallCrawler.sourcelink.json
+C:\Users\arthu\RiderProjects\ScryfallCrawler\ScryfallCrawler\obj\Debug\net8.0\Scryfall.1C785701.Up2Date
